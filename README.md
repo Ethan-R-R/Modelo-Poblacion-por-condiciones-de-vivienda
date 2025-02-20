@@ -17,7 +17,7 @@ La base de datos original en lugar de tener un espacio vacío en las observacion
 
 # Archivos
 
-[Reporte HTML](https://github.com/Ethan-R-R/Modelo-Poblacion-por-condiciones-de-vivienda/blob/8b06adcf523370ca129f02fade4ed69a6b3318fa/ReportePoblacionCondiciones.html)
+[Reporte HTML](ReportePoblacionCondiciones.html)
 
 [Reporte .ipynb](https://github.com/Ethan-R-R/Modelo-Poblacion-por-condiciones-de-vivienda/blob/8b06adcf523370ca129f02fade4ed69a6b3318fa/ReportePoblacionCondiciones.ipynb)
 
