@@ -10,6 +10,10 @@ Información demográfica y social-> Censos y Conteos -> Censos y conteos de pob
 La base de datos incluye al rededor de 277 variables que cuentan con datos demográficos como población total, población total por género, por grupos de edad, grupos étnicos, etc. Sin embargo, para este proyecto solo se considerarán las variables que contaban viviendas particulares y sus características. En la base de datos que se subirá a este repositorio solo hay 64 variables. Aunque, entre estas variables todavía se incluyen algunas que no van a usarse  como el nombre del municipio y sus coordenadas. Se incluyen más detalles en el reporte. 
 Todos los detalles del verdadero significado de las variables se encuentran en el diccionario de datos que se incluye adjunto, solo se incluyen las variables utilizadas en el proyeco. Es el mismo diccionario elavorado por el INEGI pero cortando todas las variables que no se utilizaron para entrenar los modelos. Lo mismo sucede para la base de datos. 
 
+**Modificaciones a la base de datos antes de iniciar con el proyecto:** 
+Al observar la base de datos, había una observación que en lugar de datos vacíos se llenó por completo de un string "N/D" para todas sus variables. 
+Se decidió borrar esa observación.  
+La base de datos original en lugar de tener un espacio vacío en las observaciones sin datos tenía un "*" de place holder. Esto causaba problemas, y se optó por removerlos utilizando Excel. 
 
 
 [Diccionario de Datos](https://github.com/Ethan-R-R/Modelo-Poblacion-por-condiciones-de-vivienda/blob/ba0de9464cb4061c6480f209b9353cb9b3664a4d/diccionario_datos_iter_19CSV20.csv)
