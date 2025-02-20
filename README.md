@@ -16,6 +16,11 @@ Se decidió borrar esa observación.
 La base de datos original en lugar de tener un espacio vacío en las observaciones sin datos tenía un "*" de place holder. Esto causaba problemas, y se optó por removerlos utilizando Excel. 
 
 # Archivos
+
+[Reporte HTML](https://github.com/Ethan-R-R/Modelo-Poblacion-por-condiciones-de-vivienda/blob/8b06adcf523370ca129f02fade4ed69a6b3318fa/ReportePoblacionCondiciones.html)
+
+[Reporte .ipynb](https://github.com/Ethan-R-R/Modelo-Poblacion-por-condiciones-de-vivienda/blob/8b06adcf523370ca129f02fade4ed69a6b3318fa/ReportePoblacionCondiciones.ipynb)
+
 [Diccionario de Datos](https://github.com/Ethan-R-R/Modelo-Poblacion-por-condiciones-de-vivienda/blob/ba0de9464cb4061c6480f209b9353cb9b3664a4d/diccionario_datos_iter_19CSV20.csv)
 
 [Base de datos](https://github.com/Ethan-R-R/Modelo-Poblacion-por-condiciones-de-vivienda/blob/614fe5e51442e8d259dcfaa41cdc45c79564272c/conjunto_de_datos_iter_19CSV20.csv)
